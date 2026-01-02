@@ -77,11 +77,11 @@ Each location folder needs **5-7 images**:
    - Shows: Characteristic architecture of the city
 
 3. **`project-1.jpg`** - Project example 1 (1200x800px)
-   - Used in: Location page gallery
+   - Used in: Location page content
    - Shows: Completed window project in that city
 
 4. **`project-2.jpg`** - Project example 2 (1200x800px)
-   - Used in: Location page gallery
+   - Used in: Location page content
    - Shows: Different style home with windows
 
 5. **`installation-team.jpg`** - Installation photo (1200x800px)
@@ -124,23 +124,7 @@ Each location folder needs **5-7 images**:
    - Used in: About section
    - Shows: Your team or company photo
 
-2. **`project-1.jpg`** - First project gallery image (1200x800px)
-   - Used in: Projects section
-   - Shows: Stonebridge Ranch Estate project
-
-3. **`project-2.jpg`** - Second project gallery image (1200x800px)
-   - Used in: Projects section
-   - Shows: Eldorado Country Club Home project
-
-4. **`project-3.jpg`** - Third project gallery image (1200x800px)
-   - Used in: Projects section
-   - Shows: Adriatica Village Residence project
-
-5. **`project-4.jpg`** - Fourth project gallery image (1200x800px)
-   - Used in: Projects section
-   - Shows: Historic Downtown Renovation project
-
-6-13. **Service card images** - These can come from service folders
+2-9. **Service card images** - These can come from service folders
    - 8 images (one for each service type)
    - Use the `card-image.jpg` from each service folder
 

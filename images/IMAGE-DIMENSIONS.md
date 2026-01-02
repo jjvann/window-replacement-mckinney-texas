@@ -44,22 +44,6 @@ All images should be optimized and properly sized for consistent display across 
 
 ---
 
-## 📸 Project Gallery Images
-
-**Location**: `images/project-gallery/gallery[1-4].jpeg`
-
-**Dimensions**:
-- **Recommended**: 1200×900px (4:3 aspect ratio)
-- **Minimum**: 800×600px
-- **Maximum**: 1600×1200px
-
-**Files Needed**:
-- `images/project-gallery/gallery1.jpeg` - Stonebridge Ranch Estate
-- `images/project-gallery/gallery2.jpeg` - Eldorado Country Club Home
-- `images/project-gallery/gallery3.jpeg` - Adriatica Village Residence
-- `images/project-gallery/gallery4.jpeg` - Historic Downtown Renovation
-
----
 
 ## 🎨 Service Hero Images (Service Pages)
 
@@ -78,7 +62,6 @@ All images should be optimized and properly sized for consistent display across 
 
 - [ ] All service card images are 800×600px (4:3 ratio)
 - [ ] About section image is 800×1000px (4:5 ratio)
-- [ ] All project gallery images are 1200×900px (4:3 ratio)
 - [ ] Images are optimized (compressed) to < 300KB each
 - [ ] Images are in JPEG format (.jpeg)
 - [ ] All images use consistent lighting and style

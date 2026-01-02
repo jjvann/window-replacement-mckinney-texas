@@ -36,12 +36,10 @@ Place location-specific images in the corresponding location folders:
 - Product/window examples
 - Before/after photos
 - Installation photos
-- Project gallery images
 
 ## File Naming Convention
 Use descriptive, lowercase filenames with hyphens:
 - `hero-image.jpg`
 - `window-example-1.jpg`
 - `installation-photo.jpg`
-- `project-gallery-1.jpg`
 
